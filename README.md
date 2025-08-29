@@ -1,5 +1,7 @@
 # Rick Roll Hello World App 🎵
 
+![Dancing 8-bit Rick Astley](rick_astley_8bit_dancing.gif)
+
 A fun twist on the classic "Hello World" application that rickrolls you when you click on "World"!
 
 ## Features
